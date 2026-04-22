@@ -84,7 +84,7 @@ function App() {
             <div className="hero-card">
               <span className="hero-card-tag">Profil full-stack</span>
               <p>
-                Étudiant en Master Architecture et Développement Logiciel à Ingétis Paris,
+                Étudiant en Master Architecture et Développement Logiciel ,
                 spécialisé dans le backend, les API et les architectures logicielles.
               </p>
               <div className="stats-grid">
@@ -109,7 +109,7 @@ function App() {
           <div className="about-grid">
             <div>
               <p>
-                Étudiant en Master à Ingétis Paris, passionné par le développement backend, les API et les architectures logicielles.
+                Étudiant en Master , passionné par le développement backend, les API et les architectures logicielles.
                 Mon objectif est d’intégrer une équipe technique pour travailler sur des projets concrets et produire des solutions robustes.
               </p>
             </div>
@@ -211,7 +211,7 @@ function App() {
             </div>
             <div className="contact-list">
               <a href="mailto:mnazirou70@gmail.com">mnazirou70@gmail.com</a>
-              <a href="tel:+33700000000">+33 7 00 00 00 00</a>
+              <a href="tel:+33641538926">+33 6 41 53 89 26</a>
               <a href="https://github.com/ibr8him" target="_blank" rel="noreferrer">github.com/ibr8him</a>
             </div>
             <a className="btn btn-primary" href="mailto:mnazirou70@gmail.com">Me contacter</a>
